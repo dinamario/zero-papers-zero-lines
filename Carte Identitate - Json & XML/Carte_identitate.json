@@ -1,0 +1,16 @@
+{
+  "identity_cards": {
+    "identity_card": {
+      "series": "BV",
+      "number": "183916",
+      "fist_name": "Ionescu",
+      "last_name": "Marian",
+      "sex": "M",
+      "parents_name_father": "Ion",
+      "parents_name_mother": "Vasilica",
+      "address": "Mun. Brasov Jud. Brasov Str. Lucernei nr.5 bl.5 sc.A ap.12",
+      "issued_by": "Mun. Brasov",
+      "validity": "14.12.17-19.05.2027"
+    }
+  }
+}
